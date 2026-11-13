@@ -1,0 +1,6 @@
+dev - 227MB
+przed - 225MB
+
+Total: 3
+
+prod - 93.7MB
